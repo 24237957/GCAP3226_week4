@@ -10,12 +10,12 @@ Hong Kong public hospital fee reform and A&E half-year figures. Practise critica
 2. On GitHub: **Code → Codespaces → Create codespace**.  
    Wait until **“Setting up…”** finishes (packages are installing).
 3. Open the notebook you need (e.g. `W4_ae_inclass.ipynb`).
-4. Top-right: **Select Kernel** → pick **Python 3.12** if you see it (or **Python 3 (GCAP3226)** )→ run cells top to bottom.
+4. Top-right: **Select Kernel** → pick **Python 3.12** (or **Python 3 (GCAP3226)** if you see it)→ run cells one by one. Modify the cell content when necessary.
 5. **Save** after you edit.
 
 ---
 
-### Submit (Moodle)
+## Submit (Moodle)
 
 1. **Save** the notebook.  
 2. Open **Source Control** (left sidebar, branch icon).  
