@@ -6,10 +6,23 @@ Hong Kong public hospital fee reform and A&E half-year figures. Practise critica
 
 ## Quick start
 
-1. Fork this repo → **Code → Codespaces → Create codespace**.  
-2. Wait until packages finish installing 
-3. Open a notebook → select the **Python 3.12** kernel → run cells top to bottom.  
+1. Fork this repo → **Code → Codespaces → Create codespace**.
+2. Wait until the Codespace finishes **“Setting up…”** — it is installing the Python packages.
+3. Open `W4_ae_inclass.ipynb` → pick the kernel **Python 3 (GCAP3226)** (top-right of the notebook) → run cells top to bottom.
 4. **Save** after edits.
+
+> **Do not press `.` on github.com** — that opens github.dev, which has no Python and no data.
+> Always use **Code → Codespaces → Create codespace**.
+>
+> **Do not click “Create Python Environment”** — pick **Python 3 (GCAP3226)** from the kernel list instead.
+
+If the kernel list is still empty, run this once in the terminal (Terminal → New Terminal), then reload the
+window (Cmd/Ctrl+Shift+P → **“Developer: Reload Window”**):
+
+```bash
+python -m pip install -r requirements.txt
+python -m ipykernel install --user --name gcap3226 --display-name "Python 3 (GCAP3226)"
+```
 
 ---
 

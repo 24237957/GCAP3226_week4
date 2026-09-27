@@ -1,7 +1,8 @@
 {
-  "name": "GCAP3226",
+  "name": "GCAP3226 Week 4",
   "image": "mcr.microsoft.com/devcontainers/python:3.12",
-  "postCreateCommand": "python -m pip install --upgrade pip && python -m pip install -r requirements.txt",
+  "waitFor": "postCreateCommand",
+  "postCreateCommand": "python -m pip install --upgrade pip && python -m pip install -r requirements.txt && python -m ipykernel install --user --name gcap3226 --display-name \"Python 3 (GCAP3226)\"",
   "customizations": {
     "vscode": {
       "extensions": [
@@ -13,6 +14,8 @@
       ],
       "settings": {
         "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "python.createEnvironment.trigger": "off",
+        "python.terminal.activateEnvironment": false,
         "notebook.output.textLineLimit": 100
       }
     }
