@@ -9,18 +9,20 @@ What was decided? Stated aims? Are there **clear, measurable targets / KPIs** (o
 
 **2. Critically review the data-driven approach**  
 
-- **Perspective A — Existing data collection:** what is published, missing, or weak on **protection** data (poor / serious today)  
+- **Perspective A — Existing data collection:** what is published/missing, data quality?
 - **Perspective B — Aims → evidence:** can the published evidence support (1) stronger protection for poor & serious, and (2) less wastage / misuse?
 
 ---
 
+
+
 ## Step 1 — Identify the decision
 
-Tables start **empty**. Read first; then answer orally (instructor types).
+
 
 ### Reading pack
 
-Skim these official pieces (proposal → awareness contrast → ~6 months):
+Skim these official pieces:
 
 1. **Proposal (25 Mar 2025):** HA submits fees-and-charges reform recommendations to the Health Bureau
   [HA press release PDF](https://www.ha.org.hk/haho/ho/pad/279238_ENG.pdf)
@@ -28,7 +30,7 @@ Skim these official pieces (proposal → awareness contrast → ~6 months):
 3. **~6 months in (19 Jul 2026):** “Fee reforms are working” half-year update
   [HA press release PDF](https://www.ha.org.hk/haho/ho/pad/283499_ENG1.pdf)
 
-**While reading, look for:** what was decided; stated aims; later success language; any **clear numeric target / KPI** announced *before* results (vs indicators shown *after*).
+**While reading, look for:** the information in the table below; any **clear numeric target / KPI** announced *before* results (vs indicators shown *after*).
 
 ### Fill from discussion
 
@@ -55,7 +57,7 @@ Ideal data-driven decisions would show evidence used **before** the fee rise. Pu
 **What we are reviewing:** published data on the reform’s **protection** aim — strengthen safeguards for **poor, acute, serious, and critical** patients.
 
 
-| Focus       | Published data — what it shows (given)                                                                                                                                                                               | Missing / quality issue |
+| Focus       | Published data — what it shows                                                                                                                                                                                       | Missing / quality issue |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
 | **Poor**    | Potential beneficiaries ~**900,000 → ~2,000,000** (expanded waiver eligibility). **Shows:** income/asset thresholds were relaxed, so the *eligible pool* widened — design size, not yet a count of people helped.    |                         |
 | **Poor**    | Waiver applications **289,799**; approvals **264,087** (>90%); vs ~**14,000** patients in the full year before reform. **Shows:** administrative volume of fee relief surged under the widened rules (use / volume). |                         |
@@ -83,7 +85,7 @@ Use **Perspective A** (poor / serious) plus **wastage / misuse** figures (A&E us
 
 **Aim 2 — wastage / misuse**
 
-**A&E use (official “less misuse of emergency care” story):** HA presents lower non-urgent A&E use as guiding patients away from inappropriate emergency attendance. **Early window only (1–18 Jan 2026):** daily average attendances about **−14.6%** versus the same period last year; semi-urgent + non-urgent about **−21.3%**; Category I–II about **+7.7%** and fee-exempt; Category III within 30 min **82.7% → 87.1%** (mean wait **22 → 20** min). HA called this an “expected positive effect.” ([info.gov.hk, 20 Jan 2026](https://www.info.gov.hk/gia/general/202601/20/P2026011900628.htm?fontSize=2))  
+**A&E use (official “less misuse of emergency care” story):** HA presents lower non-urgent A&E use as guiding patients away from inappropriate emergency attendance. **Early window only (1–18 Jan 2026):** daily average attendances about **−14.6%** versus the same period last year; semi-urgent + non-urgent about **−21.3%**; Critical and emergency increased about **+7.7%** and fee-exempt; Category III (urgent) within 30 min **82.7% → 87.1%** (mean wait **22 → 20** min). HA called this an “expected positive effect.” ([info.gov.hk, 20 Jan 2026](https://www.info.gov.hk/gia/general/202601/20/P2026011900629.htm?fontSize=2))  
 **First-half 2026 A&E totals** (and imaging / “as needed” drugs): see table below.
 
 **Context for imaging defaults:** Non-urgent CT/MRI (etc.) started charging from **1 Jan 2026**. A **transitional** booking/payment period then ended around **mid-April 2026**: for appointments from about **15 April** onward, patients must pay **at least 14 calendar days before** the scan, or the system **automatically cancels** the booking. ([LCQ12, 27 May 2026](https://www.info.gov.hk/gia/general/202605/27/P2026052700346.htm))
@@ -103,23 +105,23 @@ Use **Perspective A** (poor / serious) plus **wastage / misuse** figures (A&E us
 
 
 | #   | Aim                         | What would count as strong support?                        | How strongly supported? What’s weak? |
-| --- | --------------------------- | ---------------------------------------------------------- | ------------------------------------- |
-| 1a  | **Protect poor**            | Clear that the *neediest* are better protected             |                                       |
-| 1b  | **Protect serious**         | Cap reduces impoverishment / catastrophic bills            |                                       |
-| 2   | **Reduce wastage & misuse** | Less waste **and** patients still get needed care          |                                       |
-| 3   | **KPI link (both aims)**    | Aim matches a **pre-set numeric target** from Step 1       |                                       |
-| 4   | **Alternatives / limits**   | Other explanations; diversion / unmet need; awareness gaps |                                       |
+| --- | --------------------------- | ---------------------------------------------------------- | ------------------------------------ |
+| 1a  | **Protect poor**            | Clear that the *neediest* are better protected             |                                      |
+| 1b  | **Protect serious**         | Cap reduces impoverishment / catastrophic bills            |                                      |
+| 2   | **Reduce wastage & misuse** | Less waste **and** patients still get needed care          |                                      |
+| 3   | **KPI link (both aims)**    | Aim matches a **pre-set numeric target** from Step 1       |                                      |
+| 4   | **Alternatives / limits**   | Other explanations; diversion / unmet need; awareness gaps |                                      |
 
 
 **Perspective B wrap (class vote):**
 
 **On the evidence we have, Aim 1 (protect poor & serious) is:**
 
-- [ ] Strongly supported - [ ] Partially supported - [ ] Not yet judgeable - [ ] Overclaimed
+- [ ] Strongly supported - [ ] Partially supported - [ ] Not yet judgeable 
 
 **On the evidence we have, Aim 2 (reduce wastage & misuse) is:**
 
-- [ ] Strongly supported - [ ] Partially supported - [ ] Not yet judgeable - [ ] Overclaimed
+- [ ] Strongly supported - [ ] Partially supported - [ ] Not yet judgeable 
 
 ---
 
