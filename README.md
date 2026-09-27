@@ -6,23 +6,12 @@ Hong Kong public hospital fee reform and A&E half-year figures. Practise critica
 
 ## Quick start
 
-1. Fork this repo → **Code → Codespaces → Create codespace**.
-2. Wait until the Codespace finishes **“Setting up…”** — it is installing the Python packages.
-3. Open `W4_ae_inclass.ipynb` → pick the kernel **Python 3 (GCAP3226)** (top-right of the notebook) → run cells top to bottom.
-4. **Save** after edits.
-
-> **Do not press `.` on github.com** — that opens github.dev, which has no Python and no data.
-> Always use **Code → Codespaces → Create codespace**.
->
-> **Do not click “Create Python Environment”** — pick **Python 3 (GCAP3226)** from the kernel list instead.
-
-If the kernel list is still empty, run this once in the terminal (Terminal → New Terminal), then reload the
-window (Cmd/Ctrl+Shift+P → **“Developer: Reload Window”**):
-
-```bash
-python -m pip install -r requirements.txt
-python -m ipykernel install --user --name gcap3226 --display-name "Python 3 (GCAP3226)"
-```
+1. **Fork** this repo (or open your course fork).
+2. On GitHub: **Code → Codespaces → Create codespace**.  
+   Wait until **“Setting up…”** finishes (packages are installing).
+3. Open the notebook you need (e.g. `W4_ae_inclass.ipynb`).
+4. Top-right: **Select Kernel** → pick **Python 3.12** if you see it (or **Python 3 (GCAP3226)** )→ run cells top to bottom.
+5. **Save** after you edit.
 
 ---
 
@@ -35,3 +24,15 @@ python -m ipykernel install --user --name gcap3226 --display-name "Python 3 (GCA
 5. On github.com, open `W4_ae_inclass.ipynb` in your fork → copy the browser URL.  
 6. Paste that **URL** on Moodle https://buelearning.hkbu.edu.hk/mod/forum/discuss.php?d=366167.
 
+---
+
+## Troubleshooting (only if needed)
+
+**Kernel list is empty** (uncommon): in **Terminal → New Terminal** run:
+
+```bash
+python -m pip install -r requirements.txt
+python -m ipykernel install --user --name gcap3226 --display-name "Python 3 (GCAP3226)"
+```
+
+Then **Cmd/Ctrl+Shift+P** → **Developer: Reload Window**, and select the kernel again.
