@@ -129,7 +129,7 @@ Use **Perspective A** (poor / serious) plus **wastage / misuse** figures (A&E us
 
 ## Bridge to your project
 
-Same method, empty:
+Same method:
 
 1. **Identify** the decision — aims and whether KPIs are clear / measurable.
 2. **Critically review** via two perspectives:
