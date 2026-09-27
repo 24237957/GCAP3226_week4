@@ -20,5 +20,5 @@ Hong Kong public hospital fee reform and A&E half-year figures. Practise critica
 3. Click **Commit & Push**.  
 4. Type a **commit message** → click **Commit**.  
 5. On github.com, open `W4_ae_inclass.ipynb` in your fork → copy the browser URL.  
-6. Paste that **URL** on Moodle.
+6. Paste that **URL** on Moodle https://buelearning.hkbu.edu.hk/mod/forum/discuss.php?d=366167.
 
