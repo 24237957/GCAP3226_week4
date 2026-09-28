@@ -38,10 +38,10 @@ Skim these official pieces:
 | Question                                                               | Fill                                    |
 | ---------------------------------------------------------------------- | --------------------------------------- |
 | **What was decided?**                                                  | Public healthcare fees & charges reform |
-| **Stated aims / problem framing?**                                     |                                         |
-| **Success language used later?**                                       |                                         |
-| **Clear, quantified KPI / target?** (Y / N / Partial — name it if yes) |                                         |
-| **If KPI is fuzzy, what is unclear?**                                  |                                         |
+| **Stated aims / problem framing?**                                     |     4 aims: strenthen the protection of patients; rationalize public hospital service subsidies; reduce wastage and misuse; enhance the sustainability of the public healthcare system                                    |
+| **Success language used later?**                                       | significantly improved the protection; effectively enhanced the efficiency and reduced waste                                        |
+| **Clear, quantified KPI / target?** (Y / N / Partial — name it if yes) | Partial, only for A&E                                        |
+| **If KPI is fuzzy, what is unclear?**                                  |refer to the table below                                         |
 
 
 ---
@@ -59,16 +59,16 @@ Ideal data-driven decisions would show evidence used **before** the fee rise. Pu
 
 | Focus       | Published data — what it shows                                                                                                                                                                                       | Missing / quality issue |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| **Poor**    | Potential beneficiaries ~**900,000 → ~2,000,000** (expanded waiver eligibility). **Shows:** income/asset thresholds were relaxed, so the *eligible pool* widened — design size, not yet a count of people helped.    |                         |
-| **Poor**    | Waiver applications **289,799**; approvals **264,087** (>90%); vs ~**14,000** patients in the full year before reform. **Shows:** administrative volume of fee relief surged under the widened rules (use / volume). |                         |
-| **Poor**    | ~**900,000** attendances under the enhanced waiver (excl. groups already waived before/after); most fully waived. **Shows:** the expanded waiver is being used in care episodes beyond the old automatic groups.     |                         |
-| **Poor**    | FTU/HK01 survey (Jun 2025): ~half **unaware** of fee waivers; few who knew had applied *(not in the Jul HA success release)*. **Shows:** a pre-implementation awareness / know-and-apply gap.                        |                         |
-| **Serious** | $10,000 annual cap: **10,595** patients approved (later eligible fees waived). **Shows:** the cap is operational and some patients have hit the rule by 30 June.                                                     |                         |
+| **Poor**    | Potential beneficiaries ~**900,000 → ~2,000,000** (expanded waiver eligibility). **Shows:** income/asset thresholds were relaxed, so the *eligible pool* widened — design size, not yet a count of people helped.    | deepest in need vs near-cut-off proportion is unknown                        |
+| **Poor**    | Waiver applications **289,799**; approvals **264,087** (>90%); vs ~**14,000** patients in the full year before reform. **Shows:** administrative volume of fee relief surged under the widened rules (use / volume). | not fair comparison - 1.1 million more eligible people; no. of applicants vs no. of patients                        |
+| **Poor**    | ~**900,000** attendances under the enhanced waiver (excl. groups already waived before/after); most fully waived. **Shows:** the expanded waiver is being used in care episodes beyond the old automatic groups.     | no. of unique poor patient count is not clear                        |
+| **Poor**    | FTU/HK01 survey (Jun 2025): ~half **unaware** of fee waivers; few who knew had applied *(not in the Jul HA success release)*. **Shows:** a pre-implementation awareness / know-and-apply gap.                        | any post-reform survey to show the change of awareness of fee waivers                         |
+| **Serious** | $10,000 annual cap: **10,595** patients approved (later eligible fees waived). **Shows:** the cap is operational and some patients have hit the rule by 30 June.                                                     |   spending distribution /   severity of the illness                      |
 
 
 **Perspective A wrap (one sentence):**  
 
-> On **poor / serious**, public materials are stronger on _____ and weaker on _____; the gap is _____.
+> On **poor / serious**, public materials are stronger on after-the-fact; waiver counts_____ and weaker on _who are benefited_; the gap is  design-driven volume vs clearer protection outcome_____.
 
 ---
 
@@ -106,11 +106,11 @@ Use **Perspective A** (poor / serious) plus **wastage / misuse** figures (A&E us
 
 | #   | Aim                         | What would count as strong support?                        | How strongly supported? What’s weak? |
 | --- | --------------------------- | ---------------------------------------------------------- | ------------------------------------ |
-| 1a  | **Protect poor**            | Clear that the *neediest* are better protected             |                                      |
-| 1b  | **Protect serious**         | Cap reduces impoverishment / catastrophic bills            |                                      |
-| 2   | **Reduce wastage & misuse** | Less waste **and** patients still get needed care          |                                      |
-| 3   | **KPI link (both aims)**    | Aim matches a **pre-set numeric target** from Step 1       |                                      |
-| 4   | **Alternatives / limits**   | Other explanations; diversion / unmet need; awareness gaps |                                      |
+| 1a  | **Protect poor**            | Clear that the *neediest* are better protected             | volume is not equal to deeper protection                              |
+| 1b  | **Protect serious**         | Cap reduces impoverishment / catastrophic bills            |       burden size / spending blocked beyond the approval count                               |
+| 2   | **Reduce wastage & misuse** | Less waste **and** patients still get needed care          |where non-urgent patients went                                      |
+| 3   | **KPI link (both aims)**    | Aim matches a **pre-set numeric target** from Step 1       |  no quantifiable KPI for most of the items                                    |
+| 4   | **Alternatives / limits**   | Other explanations; diversion / unmet need; awareness gaps |   night-clinic / alternative -care gap                                   |
 
 
 **Perspective B wrap (class vote):**
